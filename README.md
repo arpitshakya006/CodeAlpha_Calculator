@@ -57,10 +57,7 @@ git clone https://github.com/your-username/calculator-project.git
 | Backspace | Delete last character |
 | Escape | Clear display |
 
-## 📸 Screenshot
-![Alt Calculator Screenshot](<img width="1918" height="966" alt="Screenshot 2026-06-22 104429" src="https://github.com/user-attachments/assets/3c7e0325-7931-47f2-bc98-9a218588d20d" />
-)
-```
+
 
 ## 🔮 Future Enhancements
 
